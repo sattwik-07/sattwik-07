@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sattwik Sahu 👋
 
-<!--
-**sattwik-07/sattwik-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🚀 Interested in Programming and Technology  
+🌱 Currently learning and building projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Computer Science student
+- Interested in software development
+- Always learning new technologies
+- Love solving problems
+
+---
+
+## Skills
+- C
+- Java
+- Problem Solving
+
+---
+
+## Connect With Me
+GitHub: https://github.com/sattwik-07
