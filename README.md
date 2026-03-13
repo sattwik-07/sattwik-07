@@ -1,24 +1,24 @@
-# Hi, I'm Sattwik Sahu 👋
+_**Hi 👋 I'm Sattwik Sahu**_
 
-💻 Computer Science Student  
-🚀 Interested in Programming and Technology  
-🌱 Currently learning and building projects  
-
+💻 Computer Science Student
+🚀 Passionate about Programming and Technology
+🌱 Currently learning and exploring new technologies
 ---
 
-## About Me
-- Computer Science student
-- Interested in software development
-- Always learning new technologies
-- Love solving problems
-
+🚀 About Me
+🎓 Computer Science Studen
+💡 Interested in Software Development
+🧠 Love Problem Solving
+📚 Always learning something new
 ---
 
 ## Skills
 - C
+- C++
+- Python
 - Java
+- Shell
 - Problem Solving
-
 ---
 
 ## Connect With Me
