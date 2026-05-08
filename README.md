@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hey there, I'm **Sattwik Sahu**
-
 ### 💻 CS Student · 🧠 Problem Solver · 🚀 Tech Explorer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Passionate+about+Programming;Always+Learning+Something+New;Building+Cool+Stuff+One+Line+at+a+Time)](https://git.io/typing-svg)
@@ -33,6 +32,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
@@ -42,6 +43,7 @@
 
 | 🚀 Project | 📝 Description | 🔧 Tech |
 |---|---|---|
+| [Employee-Registration-System](https://github.com/sattwik-07/Employee-Registration-System) | Full-featured employee management system with dashboard, CRUD operations, department filters, search, and live salary stats. Includes both a web UI and a Java console backend. | `HTML` `CSS` `JS` `Java` |
 | [Automatic-Fruit-Quantity-Sorting](https://github.com/sattwik-07/Automatic-Fruit-Quantity-Sorting) | Sorts fruits by quantity using Merge Sort — O(n log n) efficiency | `C` |
 | [Walkthrough-AI](https://github.com/sattwik-07/Walkthrough-AI) | An AI walkthrough project | `HTML` |
 | [competation](https://github.com/sattwik-07/competation) | Code samples from NIST Git/GitHub Workshop | `C` |
@@ -51,10 +53,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=sattwik-07&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattwik-07&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
 </div>
 
 <div align="center">
