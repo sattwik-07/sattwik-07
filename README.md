@@ -70,7 +70,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sattwik--07-181717?style=for-the-badge&logo=github)](https://github.com/sattwik-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sattwik_Sahu-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sattwik-sahu-5039b1282)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sattwik_Sahu-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sattwik-sahu)
 [![YouTube](https://img.shields.io/badge/YouTube-@sattwiksahu1804-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@sattwiksahu1804)
 [![Instagram](https://img.shields.io/badge/Instagram-sattwik__07-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/sattwik__07)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--7748--1107-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0009-7748-1707)
