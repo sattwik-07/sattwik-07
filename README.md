@@ -18,7 +18,6 @@
 - 🌱 Currently exploring **new technologies** and sharpening my coding skills
 - 🔭 Working on projects that combine logic, creativity, and real-world utility
 - 📚 Believer in lifelong learning — always reading, always building
-- ⚡ Fun fact: I sort fruits with code (seriously, check my repos 🍎)
 
 ---
 
